@@ -1,4 +1,4 @@
-# Web page difference survey
+# Web page difference
 差分チェック用
 
 2つの環境のサイトで出力されているHTMLコードに差が発生しているか確認するために作成。
